@@ -1,0 +1,30 @@
+/** @format */
+
+p {
+  padding: 1rem 0;
+  margin: 0;
+}
+div {
+  margin: 1rem;
+}
+
+h1,
+h3,
+h4,
+h5 {
+  font-family: "Castoro", serif;
+  color: #000080;
+}
+
+td:first-child {
+  padding: 0 1rem;
+  max-width: 2rem;
+}
+
+strong {
+  font-weight: 600;
+}
+
+td {
+  border: solid 2px lightgrey;
+}
